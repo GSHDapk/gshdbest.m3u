@@ -1,0 +1,31 @@
+name: Otomatik Netspor M3U Güncelleyici
+
+on:
+  schedule:
+    - cron: '0 */3 * * *' # Her 3 saatte bir otomatik çalışır
+  workflow_dispatch: # İstediğiniz zaman elle çalıştırabilmeniz için
+
+jobs:
+  update-m3u:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Kodları İndir
+        uses: actions/checkout@v4
+
+      - name: Python Kurulumu
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Gerekli Kütüphaneleri Yükle
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Python Scriptini Çalıştır
+        run: python main.py
+
+      - name: Değişiklikleri Kaydet ve Gönder
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Otomatik M3U Güncellemesi [skip ci]"
+          file_pattern: "netspor.m3u"
