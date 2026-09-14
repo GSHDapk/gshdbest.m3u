@@ -2,14 +2,14 @@ name: Otomatik Netspor M3U Güncelleyici
 
 on:
   schedule:
-    - cron: '0 */3 * * *'
+    - cron: '0 */1 * * *'
   workflow_dispatch:
 
 jobs:
   update-m3u:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # GitHub Actions'ın dosyayı depoya yazabilmesi için izin tanımı
+      contents: write
     steps:
       - name: Kodları İndir
         uses: actions/checkout@v4
