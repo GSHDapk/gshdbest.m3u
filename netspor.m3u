@@ -1,104 +1,56 @@
 #EXTM3U
-#EXTINF:-1 group-title="NETSPOR MACLAR",Sungurlu Bld. - GalatasarayCANLI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivetrtsy.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",G.Mpetshi Perricard - A.FilsCANLI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",K.Khachanov - C.AlcarazCANLI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivetb7.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Kocaelispor - Mazidaği FosfatCANLI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamliveas.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Dubai Basket - Paris
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivess1.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Bahçeşehir Klj - PAOK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivetrts.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Fenerbahçe Medicana - Alanya Bld.
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivetrtsy.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Al Ahli Dubai - Esteghlal FC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivesm1.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Al Seeb - East Bengal
+#EXTINF:-1 group-title="NETSPOR MACLAR",Al Shamal - Al HilalCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
 https://andro.evrenesoglu101.click/checklist/androstreamlivesm2.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",A.Zverev - M.Landaluce
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivetb7.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Hamburg - Eintracht Frankfurt
+#EXTINF:-1 group-title="NETSPOR MACLAR",Bayern Münih - BarcelonaCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
 https://andro.evrenesoglu101.click/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",B.Shelton - A.Kovacevic
+#EXTINF:-1 group-title="NETSPOR MACLAR",Kizilyildiz - Maccabi FoxCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Sassuolo - Lazio
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Alanyaspor - 12 Bingölspor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamliveas.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Al Shamal - Al Hilal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivesm2.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Bayern Münih - Barcelona
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Kizilyildiz - Maccabi Fox
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",S.Wawrinka - J.Lehecka
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",F.Cobolli - G.Dimitrov
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788657.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",F.Cobolli - G.DimitrovCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
 https://andro.evrenesoglu101.click/checklist/androstreamlivetrtsy.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Panathinaikos - Olimpia Milano
+#EXTINF:-1 group-title="NETSPOR MACLAR",Panathinaikos - Olimpia MilanoCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Valencia Basket - Fenerbahçe Tarfin
+https://andro.evrenesoglu101.click/checklist/androstreamliveexn3.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Panathinaikos - Olimpia Milano (Azerice)CANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamliveidm.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Valencia Basket - Fenerbahçe TarfinCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
 https://andro.evrenesoglu101.click/checklist/androstreamlivess1.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Roma - Cagliari
+#EXTINF:-1 group-title="NETSPOR MACLAR",Valencia Basket - Fenerbahçe Tarfin (Feed)CANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788911.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Roma - CagliariCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
 https://andro.evrenesoglu101.click/checklist/androstreamlivess2.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Borussia Dortmund - Werder Bremen
+#EXTINF:-1 group-title="NETSPOR MACLAR",Borussia Dortmund - Werder BremenCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Baskonia - Real Madrid
+https://andro.evrenesoglu101.click/checklist/androstreamliveexn4.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Torio - ComoCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Fleetwood - Arsenal
+https://andro.evrenesoglu101.click/checklist/androstreamliveexn7.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Baskonia - Real MadridCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivessplus1.m3u8
+https://andro.evrenesoglu101.click/checklist/androstreamliveexn5.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Fleetwood - ArsenalCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamliveexn6.m3u8
 #EXTINF:-1 group-title="NETSPOR MACLAR",Argentinos Jrs. - Independiente Rivadavia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
@@ -203,454 +155,874 @@ https://andro.evrenesoglu101.click/checklist/androstreamlivessplus1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
 https://andro.evrenesoglu101.click/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Internazionale Milano U23 - S.S. Scafatese Calcio 1922CANLI
+#EXTINF:-1 group-title="NETSPOR MACLAR",Excelsior 31 - ADO Den HaagCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20785907.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Sabail - ZiraCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41576483.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Sestao River - EspanyolCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786185.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Panserraikos - Niki VolosCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41576495.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Castellonense - AlmeriaCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786148.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Biskra - MC AlgerCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788607.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",UD Castellonense - AlmeriaCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786183.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Panserraikos - Niki VolouCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577547.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Lucena - Rayo MajadahondaCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41572629.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",US Biskra - MC AlgerCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788722.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",RSD Alcala - Las PalmasCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41572699.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Sabail - Zira FKCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788721.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Llanera - PonferradinaCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41572703.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Kazma Sporting Club - Ajman ClubCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788726.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Telstar - Almere CityCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786383.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Kazma - AjmanCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788751.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Gimnastica Segoviana - Cultural LeonesaCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41570337.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Al-Shabab SC - Neom SCCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788724.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Cesena - EmpoliCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786523.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Al Shabab Seeb - Neom SCCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788647.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Mantova - CremoneseCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41573379.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Famalicao U23 - União de Leiria U23CANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788644.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Padova Calcio - SüdtirolCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786648.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Rio Ave U23 - Sporting CP U23CANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788643.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Roda - De GraafschapCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786652.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Penafiel U23 - Vizela U23CANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788733.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Rijnsburgse Boys - Den BoschCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786650.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",PFC Cherno More Varna - Septemvri SofiaCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788742.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Helmond Sport - Willem IICANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786660.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Kocaelispor - Mazidagi Fosfat SporCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788749.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",FC Eindhoven - VolendamCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41573639.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Fakel Voronezh - AkhmatCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788748.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",BVV Barendrecht - RKC WaalwijkCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41573447.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Cherno More - Septemvri SofiaCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788739.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Shrewsbury - Everton U21CANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41573653.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Penafiel U-23 - Vizela U-23CANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788819.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Port Vale - Manchester City U21CANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41573633.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Rio Ave U-23 - Sporting CP U-23CANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788817.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Blackpool - Aston Villa U21CANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788818.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Vicenza - ModenaCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788646.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Virtus Entella - AvellinoCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788652.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Atletico Tordesillas - MirandesCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788725.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Ascoli Calcio 1898 - U.C. SampdoriaCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788638.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Ascoli - SampdoriaCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577609.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Virtus Entella - AvellinoCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577637.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Mantova - CremoneseCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41575147.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Cesena - EmpoliCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577627.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Padova - FC SudtirolCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577619.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Vicenza - ModenaCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577625.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Atletico Tordesillas - MirandesCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577783.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",RSD Alcala - Las PalmasCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577775.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Gimnastica Segoviana - Cultural LeonesaCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577781.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",UD Llanera - PonferradinaCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577785.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",CD Ciudad de Lucena - Rayo MajadahondaCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577777.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",BVV Barendrecht - RKC WaalwijkCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577811.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",FC Eindhoven - FC VolendamCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577829.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Helmond Sport - Willem IICANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577831.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Roda JC - BV De GraafschapCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577799.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Rijnsburgse boys - FC Den BoschCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577817.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Kloetinge - SC CambuurCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577837.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Telstar - Almere CityCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577835.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Shrewsbury - Everton U-21CANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
 https://andro.evrenesoglu101.click/checklist/androstreamlivech41573637.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Famalicao U-23 - UD Leiria U-23CANLI
+#EXTINF:-1 group-title="NETSPOR MACLAR",Don Benito - Extremadura 1924CANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41573629.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",AFC Progresul Spartac Bucureti - Petrolul PloiestiCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789020.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Team Altamura - GubbioCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41573725.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Madrid+ - Berlin+CANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788992.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Manresa - Sant AndreuCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786892.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Eintracht (Amatörler) - Dynamo Dresden (Amatörler)CANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788982.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Rossoblu Potenza - FC Bari 1908CANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786883.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",AUDIT - BIZCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788993.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",CE Manresa - UE Sant AndreuCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786811.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Asteras Tripolis - KifisiaCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578297.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Don Benito - CD ExtremaduraCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786855.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Asteras Tripolis - Kifisia FCCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41575713.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Piast Gliwice - Gornik ZabrzeCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41574043.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",1. Kaiserslautern (Amatörler) - FT Braunschweig (Amatörler)CANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578311.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",CS Corvinul Hunedoara - Rapid BucharestCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786884.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Arjantin (Dominic) - Belçika (Wedder)CANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578329.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Team Altamura - AS Gubbio 1910CANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786943.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Toronto+ - Galaxy+CANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578317.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Potenza - BariCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786871.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Sporting Bellavista - AC BautaCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578319.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Sloboda Tuzla - Zeljeznicar SarajevoCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786757.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",United FC - FlashCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578387.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Leicester City - Wigan AthleticCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786864.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Atletico Madrid (Comman) - PSG (Fantom)CANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789105.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Sheffield Wednesday - Cambridge UnitedCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786579.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Emmen (Amaörler) - Harlem (Amatörler)CANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789104.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Altrincham - Kidderminster HarriersCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786803.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",FC Fakel Voronezh - AkhmatCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789257.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Barnet - York CityCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786557.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Liaocheng River City - Linyi Mountain FCCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789103.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",AFC Fylde - Hartlepool UnitedCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786894.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Torpedo+ - Iceberg+CANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789249.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Maidstone United - Ebbsfleet UnitedCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786865.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",BUILD - SOCIOCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789258.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Spennymoor Town - South ShieldsCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786820.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Wizards (2x2) - Knights (2x2)CANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789261.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",AFC Totton - Torquay UnitedCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786890.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Foshan Long Lions - Beijing Royal FightersCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789260.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Braintree Town - Dagenham & RedbridgeCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20784900.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Karditsas - PanoramaCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789252.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Woking - Boreham WoodCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786670.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Broncos FB - Guardians FBCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789254.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Tamworth - Scunthorpe UnitedCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786755.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Uruguay (TBL) - Croatia (TBL)CANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789250.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",AFC Hornchurch - YeovilCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786564.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Vladivostok (Bayanlar) - Murino (Bayanlar)CANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789255.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Morecambe - Darlington 1883CANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786590.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Sırbistan (TBL) - India (TBL)CANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789248.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Worthing - Southend UnitedCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786574.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Suzhou Cats - Kunming MonksCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789256.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Boston United - GatesheadCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786908.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Overdose Up Station (w) - C.N.S.S. (w)CANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789259.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Halifax Town - BarrowCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41573635.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Voronezh - PlavskCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789253.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Luton Town - Doncaster RoversCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786634.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Buckets - Hot-BoysCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789163.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Milton Keynes Dons - BromleyCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786609.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",IPBL Owls (Bayanlar) - IPBL Iguana (Bayanlar)CANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789168.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Oxford United - Stockport CountyCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786522.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Angarsk (Bayanlar) - Kirovgrad (Bayanlar)CANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789167.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Stenhousemuir - Dunfermline AthleticCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786651.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Ulan-Ude - ChitaCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789102.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Torino F.C. - Calcio ComoCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786725.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",IPBL Hares - IPBL RhinosCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789188.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Borussia Monchengladbach - Karlsruher SCCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786767.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",IPBL Cats - IPBL WolvesCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789082.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Leicester City - Wigan AthleticCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786548.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Olimpia Milano (cyber) - Baskonia (cyber)CANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789165.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Borussia Dortmund - Werder BremenCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech56179335.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Henry Searle - Malige MaeCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789085.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Sheffield Wednesday - Cambridge UnitedCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41572017.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Daniela Vismane - Alice GillanCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789164.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",1. FC Köln - Union BerlinCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20785876.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Francesca Jones - Maria Florencia UrrutiaCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789083.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Bradford City - Peterborough UnitedCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786222.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Julia Riera - Rebeka MasarovaCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789101.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Roma - Cagliari CalcioCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786184.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Julia Riera - Rebeka MasarovaCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789047.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",SV Elversberg - SV Darmstadt 98CANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41570711.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Avery Alexander - Clemence MercierCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789084.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Koln - Union BerlinCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41572729.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Mara Guth - Chelsea FontenelCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578499.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Borussia Dortmund - Werder BremenCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41572779.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Margaux Rouvroy - Kajsa Rinaldo PerssonCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578503.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Borussia M'gladbach - Karlsruher SCCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41572787.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Francesca Jones - Maria Florencia UrrutiaCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578497.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",SV Elversberg - Darmstadt 98CANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41572777.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Kilian Feldbausch - Nicolai Budkov KjaerCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578501.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Torino - ComoCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41572869.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Karen Khachanov - Carlos Alcaraz GarfiaCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578709.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Bradford City AFC - PeterboroughCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786324.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Kilian Feldbausch - Nicolai Budkov KjaerCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578535.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Larne FC - Limavady UnitedCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786268.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Adrian Mannarino - Ignacio BuseCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577369.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Sheff Wed - Cambridge UtdCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786327.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Adrian Mannarino - Ignacio BuseCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578541.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Halifax Town - Barrow AFCCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41572987.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Felix Balshaw - Ugo BlanchetCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578839.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Worthing - Southend UtdCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41573113.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Felix Balshaw - Ugo BlanchetCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578845.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Woking - Boreham WoodCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786390.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Gaia Maduzzi - Linda KlimovicovaCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578841.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Wealdstone - Solihull MoorsCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786483.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Karen Khachanov - Carlos AlcarazCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578835.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Altrincham - Kidderminster HarriersCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41572981.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Gaia Maduzzi - Linda KlimovicovaCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578847.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Stenhousemuir - Dunfermline AthleticCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41573299.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Mia Ristic - Martyna KubkaCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578537.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Oxford Utd - Stockport CountyCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786569.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Giovanni Mpetshi Perricard - Arthur FilsCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578667.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Barnet - York CityCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786535.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Mia Ristic - Martyna KubkaCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578539.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Luton Town - Doncaster RoversCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41573471.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Mark Ceban - Mika PetkovicCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578659.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Leicester - WiganCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41573517.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Giovanni Mpetshi Perricard - Arthur FilsCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578543.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Dorking Wanderers FC - Hemel Hempstead TownCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41573403.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Alex Michelsen - Botic Van De ZandschulpCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578853.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Morecambe - Darlington FCCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786771.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Braden Shick - Max Hans RehbergCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578829.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Spennymoor Town - South ShieldsCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786721.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Jeffrey John Wolf - Abedallah ShelbayhCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578855.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Milton Keynes Dons - BromleyCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786723.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Chloe Noel - Berlanga Bandera MariaCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578669.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Atlético Paso - CordobaCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41573691.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Salakthip Ounmuang - Raquel Caballero ChicaCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789268.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Arosa - PontevedraCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41573705.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Deniz Dilek - Lexington ReedCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789265.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Tudelano - Real ZaragozaCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41573761.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Astra Sharma - Olivia LincerCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789278.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Savoia - Sorrento CalcioCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41573785.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Kate Fakih - Allura ZamarripaCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789279.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Juan Pablo II College - Sport HuancayoCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41573811.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Duru Soke - Shihomi Li Xuan LeongCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789109.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Recreativo Huelva - Rayo VallecanoCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41573713.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Jeffrey John Wolf - Abedallah ShelbauhCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789274.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Sporting Alcazar - MalagaCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41573779.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Maria Kononova - Josephine KunzCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789275.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Fleetwood Town - ArsenalCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41573821.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Braden Shick - Max Hans RehbergCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789110.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Fleetwood Town - Arsenal FCCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41573775.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Loann Massard - Johannus MondayCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578553.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",CD Atletico Paso - CordobaCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41573831.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Gloriana Goreti Nahum - Mathilde Ngijol CarreCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578869.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Sporting De Alcazar - MalagaCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41573751.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Kate Gardiner/Leticia Romanova - Victoria Allen/Summer YardleyCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578883.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",CD Manacor - VillarrealCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41573905.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Bogdan Ilyukhin - Andrey BalevCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578877.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Arosa SC - PontevedraCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786257.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Chiara Di Genova - Daria KoreshkovaCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578863.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",RC Recreativo de Huelva - Rayo VallecanoCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41572115.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Artyom Skorik - Viktor MitinCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578881.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",CD Tudelano - ZaragozaCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786376.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Alex Michelsen - Botic van de ZandschulpCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578889.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Juan Pablo II - Sport HuancayoCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41573875.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Adriana Reami - Lan MiCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578551.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Koninklijke HFC - Go Ahead EaglesCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786936.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Martina Colmegna - Zuzanna PawlikowskaCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578895.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Vivero+ - Bologna+CANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786935.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Tatjana Maria - Carlota Garibay RomeroCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789381.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",CADASTRE - MECHCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786934.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Adriana Reami - Mi LanCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789239.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Sporting Clube de Portugal - C.S. MarítimoCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41571937.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Sungurlu Bld - Galatasaray İstanbulCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789412.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Sporting CP - MaritimoCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20785847.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Sungurlu Bld. - GalatasarayCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41579157.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Graafschap (Amatörler) - Volendam (Amatörler)CANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech41572027.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Slovenya - JaponyaCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789373.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Madman (2x2) - Car (2x2)CANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786131.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Hollandaa - UkraynaCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789306.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Toledo+ - Genk+CANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786741.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Portekiz (Pro) - Slovenya (Pro)CANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789387.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Penglai Sailors FC - Qingzhou WanderersCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786494.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Volna (4x4) - Uran (4x4)CANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789418.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Liverpool (Fear) - Atletico Madrid (Comman)CANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786199.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Japonya (Bayanlar) - Sırbistan (Bayanlar)CANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789074.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Spartans - AmbushCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786923.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Rusya - AvustralyaCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789384.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",MINERALOGY - PSYCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786229.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Rusya - ABDCANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789263.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Dazhou - BayannaoerCANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20785918.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Japonya (Bayanlar) - Rusya (Bayanlar)CANLI
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789379.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Sacramento + - Tampa Bay +CANLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
-https://andro.evrenesoglu101.click/checklist/androstreamlivech20786674.m3u8
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789200.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",England (Timmy) - Ispanya (Baka)CANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789396.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Foxes (2x2) - Wolves (2x2)CANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789347.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Galaxy+ - Rapids +CANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789338.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Spartak+ - Zenit+CANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789422.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Donar Groningen - CSO VoluntariCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788513.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Skyliners Frankfurt - Cluj NapocaCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788398.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Skyliners Frankfurt - U-BT ClujCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577129.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Donar Groningen - CSO VoluntariCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577359.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Bayern Münih - BarcelonaCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788672.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Saint Quentin - Strasbourg IGCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788668.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",KK Igokea - Slavia Prague ERA NBKCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788674.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Roma SPQR - KK BosnaCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788662.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Aquila Trento - KK Budućnost PodgoricaCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788659.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Crvena Zvezda - Maccabi Tel AvivCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577647.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Bayern Munchen - BarcelonaCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577677.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Saint-Quentin Basket-Ball - Strasbourg IGCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577669.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Igokea - SK Slavia Praha ERA NBKCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577681.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",BC Roma SPQR - KK Bosna SarajevoCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577657.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Union Rennes Basket 35 - Vitre AuroreCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577939.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Panathinaikos B.C. - Olimpia MilanoCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788664.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Panathinaikos - Olimpia MilanoCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577661.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Keflavik (w) - Stjarnan (w)CANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577665.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Haukar (w) - KR Reykjavik (w)CANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577663.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Armann (w) - Njardvik (w)CANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577667.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",UCAM Murcia - PeristeriCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789035.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Valencia BC - FenerbahçeCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788911.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Valencia Basket - FenerbahceCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578155.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",UCAM Murcia - Peristeri GS AthensCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578403.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Saski Baskonia - Real Madrid BaloncestoCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789205.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Saski Baskonia - Real MadridCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578743.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",IPBL Bulls - IPBL GorillasCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789030.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Grozny (Bayanlar) - Armavir (Bayanlar)CANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789273.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Kaliningrad - PlavskCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789177.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Champagne (Bayanlar) - Angers Union Feminine Basket 49 (Bayanlar)CANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788520.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Union Rennes - Aurore de VitreCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788803.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Meksika (TBL) - İtalya (TBL)CANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789151.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",IPBL Beavers - IPBL BarracudasCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789228.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Malaysia (TBL) - Peru (TBL)CANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789145.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Chita - ChelyabinskCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789284.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Neo Niedner - Romain GalesCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41576719.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Fiona Ferro - Sofia JohnsonCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41574725.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Pedro Boscardin Dias - Juan Carlos Prado AngeloCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41556291.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Madison Brengle - Lea NilssonCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577633.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Berta Bonardi - Marjorie SouzaCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578017.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Liam Draxl - Tomasz BerkietaCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578119.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Caroline Dolehide - Whitney OsuigweCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578279.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Carole Monnet - Leolia JeanjeanCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578251.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Franco Roncadelli - Valerio AboianCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578383.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Maria Lourdes Carle - Laura PigossiCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578459.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Carolyn Ansari/June Bjork - Ariana Arseneault/Raphaelle LacasseCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578495.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Aidan Kim - Dominique RollandCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578615.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Jerry Roddick - Olaf PieczkowskiCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578675.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Admir Kalender/Nino Serdarusic - Francesco Maestrelli/Filippo RomanoCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578705.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Stanislas Wawrinka - Jiri LeheckaCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789280.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Cabral/Tracy - Reymond/SanchezCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789125.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Max Wiskandt - Andres Santamarta RoigCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578943.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",JJ Tracy/Francisco Cabral - Luca Sanchez/Arthur ReymondCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578583.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Sergey Reshetov - Alexey StrashevskiyCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788857.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Stan Wawrinka - Jiri LeheckaCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41578893.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Mitchell Krueger - Andres AndradeCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41579077.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Stefano Travaglia - Pierre-Hugues HerbertCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41579103.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Nicolas Jarry - Hugo DellienCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41579105.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Flavio Cobolli - Grigor DimitrovCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789419.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Diego Dedura-Palomero - Genaro Alberto OlivieriCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41579187.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Alexey Onegin - Oleg PesherovCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788869.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Vladimir Tsirkin - Denis SalyamovCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789383.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Onikisubat - Spor TotoCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20787097.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",SSC Karlsruhe - SWD powervolleys DurenCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577961.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",San Giovanni in Marignano (w) - Bergamo (w)CANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577703.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Crvena Zvezda (w) - ZOK Ub (w)CANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577787.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",UNI Opole (w) - KS Palac Bydgoszcz (w)CANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech41577851.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Fransa (Pro) - Hırvatistan (Pro)CANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789282.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",ABD - RusyaCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788389.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",İtalya - BrezilyaCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788337.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Rusya (Bayanlar) - Türkiye (Bayanlar)CANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789155.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",ABD - JaponyaCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788486.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Consolini (Bayanlar) - Bergamo (Bayanlar)CANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788685.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",SSC Karlsruhe - DurenCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788814.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Travers (4x4) - Vostok (4x4)CANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20789136.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Kanada - ÇinCANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788703.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Japonya (Bayanlar) - İtalya (Bayanlar)CANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788838.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Foxy-Pro (Bayanlar) - Sovy-Pro (Bayanlar)CANLI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:referer=https://netsporcoamp.xyz/
+https://andro.evrenesoglu101.click/checklist/androstreamlivech20788759.m3u8
 #EXTINF:-1 group-title="NETSPOR CANLI",Bein Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:referer=https://netsporcoamp.xyz/
